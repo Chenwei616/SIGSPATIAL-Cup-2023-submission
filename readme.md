@@ -4,7 +4,7 @@
 
 ## File Organization
 
-This repository includes two original gpkg, codes, model, conda environment and the final testing gpkg.
+This repository includes two original gpkg, codes, model, conda environment and the final test gpkg.
 
 The original tif files are not in this repository, as they are larger than the repository capacity limits. 
 
@@ -21,7 +21,7 @@ Here is the file tree of the repository:
    
 Note:
 
-- Running all code in task.ipynb to re-create the testing gpkg.
+- Running all code in task.ipynb to re-create the test gpkg.
 - All the cell can run for more than one time, even though it includes file operation.
 - The U-Net model is trained on Ubuntu20.04 with 80GB RAM and RTX3090, but it actually uses about 10GB GPU memory and 40GB RAM.
 - You can change BATCH_SIZE and IS_TRAIN to decide whether to train the whole model starting from scratch. This will change the model file, as the results of the neural network are not fixed, we use loss to control the consistency of the model here. 
