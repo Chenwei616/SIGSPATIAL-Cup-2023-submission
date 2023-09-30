@@ -10,7 +10,7 @@ The original tif files are not in this repository, as they are larger than the r
 
 Here is the file tree of the repository:
 
-![image](https://github.com/Chenwei616/SIGSPATIAL-Cup-2023-submission/assets/104111484/d87c14d8-5dc2-4ae7-9800-ca71c5236d78)
+![image](https://github.com/Chenwei616/SIGSPATIAL-Cup-2023-submission/assets/104111484/3873cf1b-76b4-4a6f-b444-bf8a291209d0)
 
 ## How to run the code
 
