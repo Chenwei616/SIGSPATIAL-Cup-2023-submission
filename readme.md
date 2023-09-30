@@ -9,6 +9,7 @@ This repository includes two original gpkg, codes, model, conda environment and 
 The original tif files are not in this repository, as they are larger than the repository capacity limits. 
 
 Here is the file tree of the repository:
+![Uploading image.png…]()
 
 
 ## How to run the code
