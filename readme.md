@@ -9,8 +9,7 @@ This repository includes two original gpkg, codes, model, conda environment and 
 The original tif files are not in this repository, as they are larger than the repository capacity limits. 
 
 Here is the file tree of the repository:
-![Uploading image.png…]()
-
+![image](https://github.com/Chenwei616/SIGSPATIAL-Cup-2023-submission/assets/104111484/d87c14d8-5dc2-4ae7-9800-ca71c5236d78)
 
 ## How to run the code
 
